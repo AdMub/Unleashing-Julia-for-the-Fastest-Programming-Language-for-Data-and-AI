@@ -1,0 +1,10 @@
+name = "Shape"
+uuid = "a857a4eb-ac60-4762-888a-1b09ac5f114c"
+authors = ["Mubarak Adisa <admub465@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+
+[compat]
+GeometryBasics = "0.5.2"
